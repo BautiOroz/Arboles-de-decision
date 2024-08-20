@@ -1,0 +1,29 @@
+Me_Gusta,Genero,Actores_Gustan,Duracion<2:30,nombre
+1,Fantasia,1,0,El_señor_de_los_anillos_1
+1,Fantasia,1,0,El_señor_de_los anillos_2
+1,Fantasia,1,0,El_señor_de_los anillos_3
+1,Fantasia,1,0,HarryPotter1
+1,Fantasia,1,0,HarryPotter2
+1,Fantasia,1,1,HarryPotter3
+1,Fantasia,1,0,HarryPotter4
+1,Fantasia,1,1,HarryPotter5
+1,Fantasia,1,0,HarryPotter6
+1,Fantasia,1,1,HarryPotter7
+1,Fantasia,1,1,HarryPotter8
+0,Terror,0,1,TheShining
+0,Terror,0,1,TheExorcist
+0,Terror,0,1,TheConjuring
+0,Terror,0,1,ParanormalActivity
+0,Terror,0,1,Hereditary
+0,Terror,0,1,Scream
+1,CF,1,1,Star_Wars_Episode1
+1,CF,1,1,Star_Wars_Episode2
+1,CF,1,1,Star_Wars_Episode3
+1,CF,1,1,Star_Wars_Episode4
+1,CF,1,1,Star_Wars_Episode5
+1,CF,1,1,Star_Wars_Episode6
+0,CF,1,1,Star_Wars_Episode7
+0,CF,1,0,Star_Wars_Episode8
+0,CF,1,1,Star_Wars_Episode9
+
+
